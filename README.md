@@ -1,6 +1,5 @@
-
-![](https://raw.githubusercontent.com/coder-yyz/coder-yyz/main/assets/github-contribution-grid-snake.svg)
-⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.51 %
+### Hi there 👋
+⏳ Year progress { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 46.72 %
 ---
-⏰ Updated on Wed, 02 Mar 2022 06:10:42 GMT
+⏰ Updated on Mon, 20 Jun 2022 12:15:20 GMT
 
